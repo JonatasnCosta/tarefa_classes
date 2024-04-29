@@ -1,6 +1,11 @@
 import carro.Carro;
 
 public class App {
+    /**
+     * 
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
        
         Carro carro = new Carro("Fiat", "Uno", 2010);
